@@ -4,6 +4,8 @@ For this project 5 of Descriptive, predictive analysis and visualization in Tabl
 **Goals**
 
 The aim of this project is to develop the dashboard in Tableau that represents main insights (KPIs) about the effects of musics on the mental health.
+How music can help to reduce mental illness ? 
+There is alot of psycological benefits from music. 
 
 
 **Introduction**
